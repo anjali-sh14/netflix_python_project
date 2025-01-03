@@ -1,5 +1,5 @@
 # Unmasking the Emotions of Netflix: A Sentiment Analysis Journey
-![netflix icon]
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 ## Unveiling the Narrative: Project Objective
 
 This project delves into the emotional landscape of Netflix, utilizing the power of Natural Language Processing (NLP) to analyze the sentiment expressed in show descriptions. By decoding the underlying emotions within these narratives, we aim to gain valuable insights into audience preferences, content trends, and the potential for enhancing the Netflix experience.
