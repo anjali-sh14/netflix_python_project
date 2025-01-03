@@ -1,5 +1,5 @@
 # Unmasking the Emotions of Netflix: A Sentiment Analysis Journey
-
+![netflix icon](https://www.google.com/imgres?q=netflix%20icon%20&imgurl=https%3A%2F%2Fi0.wp.com%2Fmynintendonews.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fnetflix_logo.jpg%3Fresize%3D930%252C620%26ssl%3D1&imgrefurl=https%3A%2F%2Fmynintendonews.com%2F2023%2F12%2F29%2Fnew-pokemon-profile-icons-available-on-netflix%2F&docid=QnG2D4PHzEa6_M&tbnid=HPfsdkORl8cl1M&vet=12ahUKEwjMltmZ_tiKAxWEyzgGHZw0LfYQM3oECBgQAA..i&w=930&h=620&hcb=2&ved=2ahUKEwjMltmZ_tiKAxWEyzgGHZw0LfYQM3oECBgQAA)
 ## Unveiling the Narrative: Project Objective
 
 This project delves into the emotional landscape of Netflix, utilizing the power of Natural Language Processing (NLP) to analyze the sentiment expressed in show descriptions. By decoding the underlying emotions within these narratives, we aim to gain valuable insights into audience preferences, content trends, and the potential for enhancing the Netflix experience.
