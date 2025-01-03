@@ -40,12 +40,9 @@ Our journey doesn't end here. We envision further explorations to deepen our und
 ## Embark on the Journey: Code and Data
 
 * Join our expedition by exploring the code in the `netflix_sentiment_analysis.ipynb` notebook.
-* Access the Netflix dataset that fueled our analysis [link to dataset source].
+* Access the Netflix dataset that fueled our analysis https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Explorers and Guides: Contributors
 
-* [Your Name]
+* Anjali Sharma
 
-## Guiding Principles: License
-
-[Specify the license for your project, e.g., MIT License]
