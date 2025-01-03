@@ -4,6 +4,9 @@
 
 This project delves into the emotional landscape of Netflix, utilizing the power of Natural Language Processing (NLP) to analyze the sentiment expressed in show descriptions. By decoding the underlying emotions within these narratives, we aim to gain valuable insights into audience preferences, content trends, and the potential for enhancing the Netflix experience.
 
+## Embark on the Journey: Code and Data
+* Access the Netflix dataset that fueled our analysis https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 ## Decoding the Questions: Key Inquiries
 
 Our exploration is guided by the following key questions:
@@ -37,10 +40,6 @@ Our journey doesn't end here. We envision further explorations to deepen our und
 * **The Voice of the Viewer:** Analyzing user reviews to gain a broader perspective on audience perception and emotional responses.
 * **Personalized Recommendations:** Leveraging sentiment insights to develop a recommendation system that caters to individual emotional preferences.
 
-## Embark on the Journey: Code and Data
-
-* Join our expedition by exploring the code in the `netflix_sentiment_analysis.ipynb` notebook.
-* Access the Netflix dataset that fueled our analysis https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Explorers and Guides: Contributors
 
